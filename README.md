@@ -117,4 +117,3 @@ python train.py --steps=240000 --lr=0.00008 --name=<your name>
 
 ## Acknowledgements
 * Our Viewer is adapted from DSO.
-# DPVO_ICCV
